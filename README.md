@@ -12,3 +12,6 @@ This repository contains solutions and problem sets organized week by week.
 - **`week3/`**:
   - `practice/`: OOP practice & capstone
   - `homework/`: OOP homework assignments & capstone
+- **`week4/`**:
+  - `practice/`: Constructors and Java Keywords practice problems
+  - `assignment/`: Constructors and Java Keywords homework assignments

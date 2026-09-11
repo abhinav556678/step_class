@@ -15,3 +15,6 @@ This repository contains solutions and problem sets organized week by week.
 - **`week4/`**:
   - `practice/`: Constructors and Java Keywords practice problems
   - `assignment/`: Constructors and Java Keywords homework assignments
+- **`week5/`**:
+  - `problems/`: Access Modifiers, Encapsulation & Object Modeling practice problems
+  - `assignment/`: Access Modifiers, Encapsulation & Object Modeling homework assignments

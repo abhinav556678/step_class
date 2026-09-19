@@ -18,3 +18,7 @@ This repository contains solutions and problem sets organized week by week.
 - **`week5/`**:
   - `problems/`: Access Modifiers, Encapsulation & Object Modeling practice problems
   - `assignment/`: Access Modifiers, Encapsulation & Object Modeling homework assignments
+- **`week6/`**:
+  - `practice/`: Inheritance, Polymorphism, Method Overriding, Defensive Copying & instanceof practice problems (CineHub Ticket System)
+  - `assignment/`: Inheritance hierarchies, late penalties, announcement dispatch & settlement homework assignments (Riverside City Marathon Race Entry System)
+
